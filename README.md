@@ -5,8 +5,9 @@
 
 
 ## Installation
- 
 
+Just paste it into your Terminal !
+ 
 ```bash
   git clone https://github.com/roguexsubmarine/Learning_PyQt.git
   cd Learning_PyQt/
