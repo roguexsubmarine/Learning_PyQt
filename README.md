@@ -1,8 +1,5 @@
 
-# Project Title
-
- My PyQt6 Journey
-
+# My PyQt6 Journey
 
 ## Installation
 
