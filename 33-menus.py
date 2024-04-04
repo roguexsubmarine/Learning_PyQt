@@ -22,7 +22,7 @@ class MainWindow(QMainWindow):
         toolbar.setIconSize(QSize(16, 16))
         self.addToolBar(toolbar)
 
-        button_action = QAction(QIcon("./fugue-icons-3.5.6/icons/animal-penguin.png"), "button 1", self)
+        button_action = QAction(QIcon("./icons/animal-penguin.png"), "button 1", self)
         button_action.setStatusTip("First button")
         button_action.triggered.connect(self.onMyToolBarButtonClick)
         button_action.setCheckable(True)
@@ -30,7 +30,7 @@ class MainWindow(QMainWindow):
 
         toolbar.addSeparator()
 
-        button_action2 = QAction(QIcon("./fugue-icons-3.5.6/icons/molecule.png"), "button 2", self)
+        button_action2 = QAction(QIcon("./icons/tree.png"), "button 2", self)
         button_action2.setStatusTip("Second button")
         button_action2.triggered.connect(self.onMyToolBarButtonClick)
         button_action2.setCheckable(True)
