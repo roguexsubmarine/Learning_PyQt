@@ -1,5 +1,6 @@
 
-# My Qt Journey
+# My PyQt6 Journey
+
 
 ## Installation
 
@@ -12,4 +13,3 @@ Just paste it into your Terminal !
   source .venv/bin/activate
   pip install pyqt6
 ```
-    
