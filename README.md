@@ -1,5 +1,5 @@
 
-# My PyQt6 Journey
+# My Qt Journey
 
 ## Installation
 
