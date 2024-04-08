@@ -1,7 +1,6 @@
 
 # My PyQt6 Journey
 
-
 ## Installation
 
 Just paste it into your Terminal !
